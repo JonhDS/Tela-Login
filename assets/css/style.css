@@ -59,7 +59,7 @@ section .garota {
 .contatos {
     position: absolute;
     top: 20%;
-    z-index: 1;
+    z-index: 100;
     transform: scale(3);
 }
 

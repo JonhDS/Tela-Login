@@ -240,7 +240,7 @@ section .garota {
     .login .grupo {
         margin: auto;
         font-size: .8rem;
-        
+        font-weight: 600;
     }
     
 

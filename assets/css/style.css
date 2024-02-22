@@ -215,6 +215,30 @@ section .garota {
     }
 }
 
+@media screen and (max-width:800px) {
+  
+    
+    .login {
+        padding: 2.5rem;
+        width: 500px;
+    }
+    
+    .login h2 {
+        font-size: 2em;
+    }
+    
+    .login .inputBox #btn {
+        font-size: 1.5em;
+    }
+     
+    .folhas {
+        width: 400%;
+        height: 600%;
+        transform: scale(.5);
+    }
+    
+    }
+
 @media screen and (max-width:500px) {
   
     

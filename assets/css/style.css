@@ -237,6 +237,13 @@ section .garota {
         transform: scale(.5);
     }
 
+    .login .grupo {
+        margin: auto;
+        font-size: .8rem;
+        
+    }
+    
+
 }
  
 @media screen and (max-width:500px) {

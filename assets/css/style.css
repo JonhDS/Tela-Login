@@ -214,3 +214,27 @@ section .garota {
         transform: translateX(20px) rotate(225deg);
     }
 }
+
+@media screen and (max-width:500px) {
+  
+    
+.login {
+    padding: 1.5rem;
+    width: 300px;
+}
+
+.login h2 {
+    font-size: 1.5em;
+}
+
+.login .inputBox #btn {
+    font-size: 1em;
+}
+ 
+.folhas {
+    width: 400%;
+    height: 600%;
+    transform: scale(.5);
+}
+
+}

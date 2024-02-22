@@ -56,6 +56,22 @@ section .garota {
     }
 }
 
+.contatos {
+    position: absolute;
+    top: 20%;
+    z-index: 1;
+    transform: scale(3);
+}
+
+.contatos a {
+    color: #8f2c24;
+    transition: .5s;    
+}
+
+.contatos a:hover{
+    color: #d64c42;
+}
+
 .login {
     position: absolute;
     padding: 3rem;

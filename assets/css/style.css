@@ -236,9 +236,7 @@ section .garota {
         height: 600%;
         transform: scale(.5);
     }
-    
-    }
-
+ 
 @media screen and (max-width:500px) {
   
     
@@ -259,6 +257,13 @@ section .garota {
     width: 400%;
     height: 600%;
     transform: scale(.5);
+}
+
+}
+
+.login .grupo {
+    font-size: .6rem;
+
 }
 
 }
